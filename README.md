@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-VarunNair
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python Django
+- 🌱 I’m a Python Django Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... via linked in 'www.linkedin.com/in/varun-v-nair-47b42b12a'
 - 😄 Pronouns: ...
